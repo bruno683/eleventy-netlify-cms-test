@@ -1,0 +1,9 @@
+---
+layout: layouts/base.njk
+---
+<!-- Ce fichier est le template qui sert de squelette de base pour la mise en forme des articles !-->
+<h2>{{ title }}</h2>
+<img src="{{ featuredImage | url }}" alt = "{{ featuredImage }}">
+</br>
+<time datetime=" {{date}} ">{{ date }}</time>
+<p>{{ content | safe }}</p>
