@@ -1,5 +1,6 @@
 backend:
   name: git-gateway
+  repo: Richard/eleventy-netlify-cms-test
   branch: master
 
 media_folder: "_site/images/uploads"
