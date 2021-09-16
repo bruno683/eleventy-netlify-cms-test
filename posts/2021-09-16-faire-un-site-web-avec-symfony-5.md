@@ -2,7 +2,7 @@
 layout: layouts/post.njk
 title: Faire un site web avec Symfony 5
 desccription: Réalisez pas-à-pas un site web en utilisant la librairie Symfony
-date: 16/09/2021
+date: 2021-09-16
 featuredImage: /images/uploads/computer-1209641_640.jpg
 ---
 
